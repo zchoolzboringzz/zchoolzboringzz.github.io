@@ -1,2 +1,2 @@
 # zchoolzboringzz.github.io
-trying to make a github-ed version of my gaming website
+# my trying-to-learn-coding website, full of supposing proxs, games, and apps
